@@ -1,0 +1,2 @@
+Aqui está escrito algo que será lido com o Scanner em Java.
+Bom dia.
